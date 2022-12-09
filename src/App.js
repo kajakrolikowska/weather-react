@@ -8,6 +8,8 @@ import Description from "./Description";
 import Values from "./Values";
 import CitySearch from "./CitySearch";
 
+import "./styles.css";
+
 function App() {
   return (
     <div className="App">

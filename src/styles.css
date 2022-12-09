@@ -1,0 +1,55 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #41153082;
+  background-color: #41153028;
+}
+
+.weather-app-wrap {
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+.weather-app {
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #e6d2aa;
+  border-radius: 10px;
+  margin-top: 30px;
+  background-color: white;
+}
+
+ul {
+  margin: 0;
+  padding: 5px;
+}
+
+li {
+  list-style-type: none;
+  color: #411530;
+  font-size: 12px;
+}
+
+.Definitions {
+  text-align: right;
+  border-right: 1px solid #41153082;
+  padding: 5px;
+  margin-left: 0px;
+}
+
+.nopadding {
+  padding: 0;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  top: -15px;
+  right: -20px;
+}
+
+a {
+  color: #411530;
+  text-decoration: none;
+}
