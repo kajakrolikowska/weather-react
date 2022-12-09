@@ -62,7 +62,10 @@ function App() {
             <hr />
           </div>
           <small className="footer">
-            <a href="#">Open-source code</a>, by Kaja Królikowska
+            <a href="https://github.com/kajakrolikowska/weather-react">
+              Open-source code
+            </a>
+            , by Kaja Królikowska
           </small>
         </div>
       </div>
