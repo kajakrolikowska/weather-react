@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Weather city="Berlin" />
-        <p>Current weather</p>
+        <p>Current temperature</p>
       </header>
     </div>
   );
